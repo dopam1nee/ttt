@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+.app {
+	display: flex;
+	flex-direction: column;
+	margin: 200px auto;
+	align-items: center;
+	width: 450px;
+}
+
+.restartButton {
+	padding: 10px 20px;
+
+	color: #f1eaff;
+	background-color: #dcbfff;
+	border-style: none;
+	border-radius: 10px;
+	font-family: 'Comfortaa', sans-serif;
+	font-size: 16px;
+
+	box-shadow: 2px 2px 4px #d0a2f7;
+}
+
+.restartButton:hover {
+	cursor: pointer;
+	background-color: #d0a2f7;
+}

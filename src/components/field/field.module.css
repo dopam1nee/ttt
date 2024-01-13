@@ -1,0 +1,16 @@
+.field {
+	display: flex;
+	flex-wrap: wrap;
+	width: 450px;
+	margin: 20px 0;
+	border: 1px solid #d0a2f7;
+}
+
+.cell {
+	background-color: #e5d4ff;
+	color: #d0a2f7;
+	width: 150px;
+	height: 150px;
+	border: 1px solid #d0a2f7;
+	font-size: 75px;
+}
